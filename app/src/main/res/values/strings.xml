@@ -4,4 +4,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="buttonSignup">Sign Up</string>
     <string name="buttonTerms">Terms</string>
+    <string name="attentionName">Please enter your name</string>
+    <string name="buttonNext">Next</string>
 </resources>
